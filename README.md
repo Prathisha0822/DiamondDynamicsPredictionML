@@ -35,6 +35,10 @@ Multiple regression models were trained and evaluated:
 
 ##  UI Snapshot
 
+<img width="844" height="672" alt="image" src="https://github.com/user-attachments/assets/f90bf0fd-756c-4023-97a7-b8424b361992" />
+
+<img width="752" height="701" alt="image" src="https://github.com/user-attachments/assets/b9c2ac3f-5072-4141-9ab8-93a3a4fe040b" />
+
 
 
 
